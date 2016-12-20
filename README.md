@@ -78,3 +78,6 @@ Contact
 -------
 
 Mail { user | dev } @ lists.opennaas.org for further information. 
+
+
+Thank you for watching
